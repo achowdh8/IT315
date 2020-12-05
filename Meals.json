@@ -1,0 +1,11 @@
+{
+  "MyMeals":
+  [
+    {"MealName":"Chicken Burrito Bowl","Provider":"Chipotle","MealPrice":8.50,"MealImage":"https://raw.githubusercontent.com/achowdh8/IT315/main/chipotlecbb.jpg","MealCal":660,"MealDesc":"Delicious Chicken breast, seasoned cilantro rice, shredded cheese, black olives and our special sauce makes this rice bowl worth every cent","MealWebsite":"https://chipotle.com/order/build/burrito-bowl"},
+    {"MealName":"Chicken Sandwich","Provider":"Popeyes","MealPrice":4.99,"MealImage":"https://raw.githubusercontent.com/achowdh8/IT315/main/popeyescs.jpg","MealCal":699,"MealDesc":"Crispy Fried Chicken Breast, topped with pickles, spicy cajun sauce nestled on a broiche bun","MealWebsite":"https://www.popeyes.com/menu/section-370221ed-ecb7-471f-b410-ed117d3f8ea9"},
+    {"MealName":"4pc Chicken Combo","Provider":"KFC","MealPrice":9.39,"MealImage":"https://raw.githubusercontent.com/achowdh8/IT315/main/kfc.jpg","MealCal":1349,"MealDesc":"Crispy Fried Chicken (4pcs), delicious butter biscuit, your choice of sides and a drink","MealWebsite":"https://www.kfc.com/menu/meals/big-box-meals"},
+    {"MealName":"Mac and Cheese","Provider":"Panera Bread","MealPrice":7.99,"MealImage":"https://raw.githubusercontent.com/achowdh8/IT315/main/paneramac.jpg","MealCal":940,"MealDesc":"Macaroni with delicious melted white cheddar, sprinkled with breadcrumbs","MealWebsite":"https://delivery.panerabread.com/menu/category/41"},
+    {"MealName":"Burrito supreme","Provider":"Taco Bell","MealPrice":3.49,"MealImage":"https://raw.githubusercontent.com/achowdh8/IT315/main/tacobellburrito.jpg","MealCal":390,"MealDesc":"Seasoned beef, cheese, tomatoes, reduced fat sour cream, onions, black beans, lettuce and our signature red sauce will leave you wanting more, so make sure you order 2... if not 3","MealWebsite":"https://www.tacobell.com/food/burritos/burrito-supreme"}
+  ],
+  "Status":"OK"
+}
